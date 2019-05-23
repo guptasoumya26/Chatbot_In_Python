@@ -18,7 +18,7 @@ Installation Steps
 ---
 ### License & Copyright
 [MIT](https://choosealicense.com/licenses/mit/)
-© Soumya Gupta, 2019
+© Soumya Gupta, 2019.
 
 
 
